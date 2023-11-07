@@ -1,0 +1,30 @@
+.all{display: grid;
+     grid-template-columns: 1fr 1fr 1fr;
+     grid-template-rows: 1fr;
+     justify-items: center;
+     justify-content: center;
+}
+
+.main{text-align: center;
+}
+
+.btn{background-color: rebeccapurple;
+     color: white;
+     width: 12em;
+     height: 2.5em;
+     border-radius: 12em;
+     border: none;
+     font-size: 12px;
+}
+
+.input{width: 22em;
+       border-top: none;
+       border-left: none;
+       border-right: none;
+}
+
+.titulo{font-family: Arial, Helvetica, sans-serif;
+        font-weight: 200;
+        font-size: 25px;
+
+}
